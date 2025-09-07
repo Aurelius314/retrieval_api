@@ -1,6 +1,6 @@
 后端结构
 ```
-/surf/api/
+/retrieval_api/
 ├── models/                   
 │   ├── epoch_latest.pt       
 │   └── cn_clip/              
